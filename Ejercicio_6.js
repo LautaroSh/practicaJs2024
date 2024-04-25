@@ -1,3 +1,5 @@
+//Ingresar dos valores enteros y enumerar los elementos que los separan.
+
 const numero1=10
 const numero2=5
 

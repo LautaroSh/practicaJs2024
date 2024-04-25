@@ -1,3 +1,5 @@
+//Mostrar los multiplos de 2 y 5 menores a 100.
+
 const num1=2
 const num2=5
 console.log("Multiplos de 2")

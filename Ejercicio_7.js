@@ -1,3 +1,5 @@
+//Ingresar dos números y mostrar los múltiplos de 3 comprendidos entre ambos.
+
 const numero1 = 5;
 const numero2 = 15;
 

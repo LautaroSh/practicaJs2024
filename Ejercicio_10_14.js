@@ -1,4 +1,6 @@
-//Sumar solo los elementos pares de un array.
+//10_Sumar solo los elementos pares de un array.
+
+//14_Filtrar los elementos de un array de números para obtener solo los pares.
 
 var numeros= [32, 45, 73, 18, 29, 50, 67]
 var suma=0

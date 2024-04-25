@@ -1,3 +1,5 @@
+//Ingresar un número e indicar si es par.
+
 const numero=20
 const numero1=21
 

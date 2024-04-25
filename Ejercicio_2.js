@@ -1,3 +1,5 @@
+//Ingresar tres valores e indicar cual es el mayor y cual el menor.
+
 const n1=10
 const n2=20
 const n3=30

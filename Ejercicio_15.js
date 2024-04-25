@@ -2,8 +2,7 @@
 
 function obtenerDivisibles(minimo, maximo, divisor) {
     const listaDivisibles = [];
-    
-    
+       
     for (let i = minimo; i <= maximo; i++) {
       if (i % divisor === 0) { 
         listaDivisibles.push(i);
@@ -12,7 +11,6 @@ function obtenerDivisibles(minimo, maximo, divisor) {
     return listaDivisibles; 
   }
   
- 
   const minimo = 1; 
   const maximo = 20; 
   const divisor = 3; 
